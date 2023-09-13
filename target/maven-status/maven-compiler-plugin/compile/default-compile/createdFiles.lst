@@ -1,0 +1,4 @@
+Model\StringModel.class
+View\StringView.class
+Common\StringUtil.class
+Controller\StringController.class
